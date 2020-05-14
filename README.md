@@ -1,3 +1,2 @@
-Welcome to
-Hyuntae-Jeong.github.io
+# Welcome to Hyuntae-Jeong.github.io
 # 🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀
