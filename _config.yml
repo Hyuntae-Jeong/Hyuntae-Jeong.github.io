@@ -16,10 +16,10 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Hyuntae Jeong
+  tagline: Student. Dreamer
   date_format: "%b %-d, %Y"
-  style: white
+  style: yellow
   showNav: false
   showPicker: true
 
