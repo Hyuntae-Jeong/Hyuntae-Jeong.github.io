@@ -19,7 +19,7 @@ texture:
   title: Hyuntae Jeong
   tagline: Student. Dreamer
   date_format: "%b %-d, %Y"
-  style: yellow
+  style: rainbow
   showNav: false
   showPicker: true
 
