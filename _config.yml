@@ -1,6 +1,6 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Hyuntae Jeong's Static Page
+author: Hyuntae-Jeong
+email: jht000717@g.skku.edu
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -19,9 +19,9 @@ texture:
   title: Hyuntae Jeong
   tagline: Student. Dreamer💫
   date_format: "%b %-d, %Y"
-  style: blue
+  style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
